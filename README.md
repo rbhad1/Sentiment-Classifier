@@ -16,7 +16,7 @@ Here is a visualization of the training loss and validation loss curves:
 
 <img width="424" alt="image" src="https://github.com/user-attachments/assets/6a104127-3e83-4b94-bfea-56a380848a42" />
 
-Future Direction:
+Future Directions:
 - **Data Expansion**: Increase the datast and train model on mor etesting data to improve accuracy 
 - **Model Comparison**: Fine-tuning other LLMs and compare their performance to identify the best model for this task
 - **Investment** **Strategy**: Explore how FED sentiment can be applied to optimize investment strategies and determine if there is a correlation between market movement and FED sentiment
