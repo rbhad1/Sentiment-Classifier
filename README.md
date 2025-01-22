@@ -13,6 +13,7 @@ The model’s performance showed a promising results:
 - **Precision**: 0.395238
 
 Here is a visualization of the training loss and validation loss curves: 
+
 <img width="424" alt="image" src="https://github.com/user-attachments/assets/6a104127-3e83-4b94-bfea-56a380848a42" />
 
 Future Direction:
