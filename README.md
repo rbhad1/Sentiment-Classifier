@@ -1,5 +1,5 @@
 ## Sentiment Classifier
-This project involves fine-tuning Google's BERT model to classify statements from the Federal Reserve (FED) communications (e.g., press conferences, speeches) as dovish, hawkish, neutral, or irrelevant with the goal of infering the FED's monetary policy stance.
+This project involves fine-tuning Google's BERT model to classify statements from the Federal Reserve (FED) communications (e.g., press conferences, speeches) as dovish, hawkish, neutral, or irrelevant with the goal of inferring the FED's monetary policy stance.
 
 **Key Features:**
 - Model: Fine-tuned Google's BertForSequenceClassification (bert-base-uncased) using a custom training loop
